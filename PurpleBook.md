@@ -29,7 +29,9 @@ Official Information Channels [[OfInfoCh]](#OfInfoCh)
 
  &emsp; Community Chats [[OfInfoCh-chats]](#OfInfoCh-chats)
 
-Roadmap [[RMap]](#RMap)  
+Roadmap [[RMap]](#RMap)
+
+ &emsp; Direct support for the Internet of Labour ecosystem [[iol-support]](#iol-support)  
 
  &emsp; Initialization of Media Management [[RMap-MMInit]](#RMap-MMInit)  
 
@@ -309,7 +311,27 @@ A timeline chart of the Road Map is shown schematically below.
 
 ![Road Map](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/imgs/chart_RMap.png?raw=true)
 
-The detailed procedural descriptions follow. 
+### Direct support for the Internet of Labour ecosystem
+
+ &emsp; <a id="iol-support">[iol-support]</a>
+ 
+To facilitate streamlined support for the Internet of Labour (iol) ecosystem and platform, bypassing the procedures and waiting periods outlined in this Purple Book, the following direct blockchain addresses of the ecosystem are now available:
+
+**Bitcoin** (Taproot): bc1p9x643nd5j9s4a6udy4m67qn3syf34dudscrz828cg8y3mvm9uvtse2qmqu
+
+**Ethereum**: [0xeae783bb1552a389b819b4543a5f1e44fd744ff1](0xeae783bb1552a389b819b4543a5f1e44fd744ff1)
+
+**Solana**: [DCEjbWkVaes2FX2M8Pw28TjkRVVkNNstJBiacNMJDHxB](DCEjbWkVaes2FX2M8Pw28TjkRVVkNNstJBiacNMJDHxB)
+
+**TRON**: [TCdExGMZnyfiCtGKHjzadeucF3rv1avXU8](TCdExGMZnyfiCtGKHjzadeucF3rv1avXU8)
+
+**TON**: [UQCEZ4xOBA8qvWRf3fZIaK0yJiXbfv-HcqVTnXK_pB1NP0MO](UQCEZ4xOBA8qvWRf3fZIaK0yJiXbfv-HcqVTnXK_pB1NP0MO)
+
+**USDT** (on Ethereum and BNB Chain): [0xeae783bb1552a389b819b4543a5f1e44fd744ff1](0xeae783bb1552a389b819b4543a5f1e44fd744ff1)
+
+&nbsp;&nbsp;
+
+**The detailed procedural descriptions follow.**
 
 &nbsp;  
 
